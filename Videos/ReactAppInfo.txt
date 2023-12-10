@@ -1,0 +1,14 @@
+☆ Info
+React-App project
+
+🛈 What
+This is a ToDo App made with React
+
+⚘ Design
+Add task, delete task
+
+🗊 Note
+Demo is for academical purpose only
+
+❀ Enjoy the presentation
+& Thank you for watching!
