@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Library Form</title>
+</head>
+
+<!-- localhost:8080/libraryform -->
+
+<body>
+	<form action="#" th:action="@{/mnlform}" method="post" th:object="${libraryData}">
+	
+		Id: <input type="number" th:field="*{Id}" required><br>
+		Title: <input type="text" th:field="*{Author}" required><br>
+		Author: <input type="text" th:field="*{Title}" required><br>
+		ISBN: <input type="text" th:field="*{Isbn}" required><br>
+		Category: <input type="text" th:field="*{Category}" ><br>
+		Pages: <input type="number" th:field="*{Pages}" ><br>
+		
+		<button type="submit">Submit</button>
+	</form>
+</body>
