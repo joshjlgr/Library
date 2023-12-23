@@ -1,4 +1,4 @@
-![image](https://github.com/joshjlgr/Library/assets/69741487/e4aa7d6e-6e3c-437e-970f-ee4adc87b8fc)
+![image](https://cdn.vox-cdn.com/thumbor/bQvQkEiWCCqdven9p9DSiL4H1HQ=/0x0:6546x3305/1120x0/filters:focal(0x0:6546x3305):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7953323/shutterstock_304930064.jpg)
 
 # About LMS
 Proj Mgt in Jira:
