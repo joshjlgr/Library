@@ -1,3 +1,5 @@
+![image](https://github.com/joshjlgr/Library/assets/69741487/e4aa7d6e-6e3c-437e-970f-ee4adc87b8fc)
+
 # About LMS
 Proj Mgt in Jira:
 https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
