@@ -1,12 +1,9 @@
 # About LMS
-The Library Management System (LMS)
-A Capstone Project with Proj Management, Progress Checking, Daily Standups....
-
-Preparing the front end, back end, business logic, database, documents in 1.5 month.
-
 Proj Mgt in Jira:
 https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
 
+The Library Management System (LMS)
+A Capstone Project with Proj Management, Progress Checking, Daily Standups....
 
 # MyLibraryManagementApplication
 
