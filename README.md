@@ -1,15 +1,15 @@
 ![image](https://cdn.vox-cdn.com/thumbor/bQvQkEiWCCqdven9p9DSiL4H1HQ=/0x0:6546x3305/1120x0/filters:focal(0x0:6546x3305):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7953323/shutterstock_304930064.jpg)
 
-# About LMS
-Proj Mgt in Jira:
-https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
-
-The Library Management System (LMS)
-A Capstone Project with Proj Management, Progress Checking, Daily Standups....
-
 # MyLibraryManagementApplication
 
 This project was bootstrapped with  [Create React App](https://github.com/facebook/create-react-app).
+
+# LMS Proj Management
+The Library Management System (LMS)
+A Capstone Project with Proj Management, Progress Checking, Daily Standups....
+
+Proj Mgt in Jira:
+https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
 
 ## [](https://github.com/arjungautam1/fullstack-frontend#available-scripts)Available Scripts
 
