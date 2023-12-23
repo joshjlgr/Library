@@ -8,7 +8,7 @@ My Project Management Timeframe:
 https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
 
 
-# MY LIBRARY MANAGEMENT APP
+# MyLibraryManagementApplication
 
 This project was bootstrapped with  [Create React App](https://github.com/facebook/create-react-app).
 
