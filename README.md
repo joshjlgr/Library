@@ -1,4 +1,4 @@
-# LMS
+# About LMS
 The Library Management System (LMS)
 A Capstone Project with Proj Management, Progress Checking, Daily Standups....
 
