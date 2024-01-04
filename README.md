@@ -4,11 +4,14 @@
 
 This project was bootstrapped with  [Create React App](https://github.com/facebook/create-react-app).
 
-# LMS Proj Management
+# Library Management Project
 The Library Management System (LMS)
 A Capstone Project with Proj Management, Progress Checking, Daily Standups....
 
-Proj Mgt in Jira:
+LMS Project Brief: 
+https://docs.google.com/presentation/d/1oLTROTaZ6NOJY8lSZt8TJ0QdkT3QPt7a/edit?usp=drive_link&ouid=112704594275330515644&rtpof=true&sd=true
+
+LMS Project Management:
 https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
 
 ## [](https://github.com/arjungautam1/fullstack-frontend#available-scripts)Available Scripts
