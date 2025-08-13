@@ -8,9 +8,6 @@ This project was bootstrapped with  [Create React App](https://github.com/facebo
 The Library Management System (LMS)
 A Capstone Project with Proj Management, Progress Checking, Daily Standups....
 
-LMS Project Brief: 
-https://docs.google.com/presentation/d/1oLTROTaZ6NOJY8lSZt8TJ0QdkT3QPt7a/edit?usp=drive_link&ouid=112704594275330515644&rtpof=true&sd=true
-
 LMS Presentation File:
 https://1drv.ms/p/c/b0406d41deb35b00/EQBbs95BbUAggLCgFw0AAAAByIDL4C-rXhvaTIPrgZKpKg?e=5gb6v0
 
