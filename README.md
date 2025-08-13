@@ -11,8 +11,14 @@ A Capstone Project with Proj Management, Progress Checking, Daily Standups....
 LMS Project Brief: 
 https://docs.google.com/presentation/d/1oLTROTaZ6NOJY8lSZt8TJ0QdkT3QPt7a/edit?usp=drive_link&ouid=112704594275330515644&rtpof=true&sd=true
 
-LMS Project Management:
-https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737
+LMS Presentation File:
+https://1drv.ms/p/c/b0406d41deb35b00/EQBbs95BbUAggLCgFw0AAAAByIDL4C-rXhvaTIPrgZKpKg?e=5gb6v0
+
+LMS Project Documentation:
+[[[https://mylibraryapp.atlassian.net/jira/polaris/projects/MLP/ideas/view/3574737](https://1drv.ms/w/c/b0406d41deb35b00/EUQs1JKiL9BClQ-qtKT33RgBBL9Pu-tSrmhwrDWJJrpjTA?e=4NhglB)](https://1drv.ms/w/c/b0406d41deb35b00/EUQs1JKiL9BClQ-qtKT33RgBBL9Pu-tSrmhwrDWJJrpjTA?e=gS8uxD)](https://1drv.ms/w/c/b0406d41deb35b00/EUQs1JKiL9BClQ-qtKT33RgBBL9Pu-tSrmhwrDWJJrpjTA?e=1BDJZA)
+
+LMS User Manual: 
+[[https://docs.google.com/presentation/d/1oLTROTaZ6NOJY8lSZt8TJ0QdkT3QPt7a/edit?usp=drive_link&ouid=112704594275330515644&rtpof=true&sd=true](https://1drv.ms/w/c/b0406d41deb35b00/EfJhrNJG-u9Gn8vpDnVaA08Bna9txgXJwMSPCjUG5WhT-A?e=JhXPLp)](https://1drv.ms/w/c/b0406d41deb35b00/EfJhrNJG-u9Gn8vpDnVaA08BZWYS9LPvWPnncv60lqh2xA?e=sji9Ct)
 
 ## [](https://github.com/arjungautam1/fullstack-frontend#available-scripts)Available Scripts
 
